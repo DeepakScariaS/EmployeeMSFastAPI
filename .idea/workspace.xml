@@ -4,23 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2797328-d946-4932-ab36-ce05b559dc5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EmployeeMSFastAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/route.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schema/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schema/schemas.py" afterDir="false" />
+    <list default="true" id="d2797328-d946-4932-ab36-ce05b559dc5a" name="Changes" comment="crud operations implemented">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/route.py" beforeDir="false" afterPath="$PROJECT_DIR$/routes/route.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schema/schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/schema/schemas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2cGgtMPNgn2TGIHRDwCi27M2RS8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -50,7 +42,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/source_codes/EmployeeMSFastAPISQLAl"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -69,6 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1707743542260</updated>
     </task>
+    <task id="LOCAL-00001" summary="crud operations implemented">
+      <option name="closed" value="true" />
+      <created>1707744787533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707744787533</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="crud operations implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="crud operations implemented" />
   </component>
 </project>

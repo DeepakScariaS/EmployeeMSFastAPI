@@ -1,9 +1,9 @@
 def individual_serial(emp) -> dict:
     return {
         "id": str(emp["_id"]),
-        "name": emp["name"],
+        "name": emp["employee_name"],
+        "phoneNo": emp["phoneNo"],
         "age": emp["age"],
-        "phoneNo": emp["phoneNo"]
     }
 
 
